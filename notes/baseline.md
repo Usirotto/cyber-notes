@@ -5,10 +5,10 @@
 
 ## Mevcut Teknik Yetkinlik Seviyeleri (1 - 10 Ölçeği)
 * **Linux Temelleri ve CLI Yönetimi:** 1/10
-* **Ağ Protokolleri ve Trafik Analizi (TCP, DNS, HTTP, TLS):** 3/10[cite: 1]
-* **Windows İşletim Sistemi ve Güvenlik Telemetry'si:** 2/10[cite: 1]
-* **PowerShell / Bash Scripting ve Otomasyon:** 1/10[cite: 1]
-* **SIEM Arayüzleri, KQL Sorgu Tasarımı ve Log Analizi:** 1/10[cite: 1]
+* **Ağ Protokolleri ve Trafik Analizi (TCP, DNS, HTTP, TLS):** 3/10
+* **Windows İşletim Sistemi ve Güvenlik Telemetry'si:** 2/10
+* **PowerShell / Bash Scripting ve Otomasyon:** 1/10
+* **SIEM Arayüzleri, KQL Sorgu Tasarımı ve Log Analizi:** 1/10
 
 ## Metodolojik Yaklaşım ve Gelişim Stratejisi
-Bu program süresince, pasif içerik tüketiminin (video vb.) ötesine geçilerek, gelişim stratejisinin merkezine uygulamalı laboratuvar validasyonları, canlı tehdit simülasyonları ve doğrulanabilir teknik raporlama süreçleri yerleştirilmiştir[cite: 1]. Üretilen her analitik çıktı, GitHub üzerinde somut birer portföy öğesi olarak belgelenecektir[cite: 1].
+Bu program süresince, pasif içerik tüketiminin (video vb.) ötesine geçilerek, gelişim stratejisinin merkezine uygulamalı laboratuvar validasyonları, canlı tehdit simülasyonları ve doğrulanabilir teknik raporlama süreçleri yerleştirilmiştir. Üretilen her analitik çıktı, GitHub üzerinde somut birer portföy öğesi olarak belgelenecektir.
